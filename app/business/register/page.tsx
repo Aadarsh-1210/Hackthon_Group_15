@@ -96,3 +96,4 @@ export default function RegisterBusinessPage() {
         </div>
     )
 }
+//registration mechanism
